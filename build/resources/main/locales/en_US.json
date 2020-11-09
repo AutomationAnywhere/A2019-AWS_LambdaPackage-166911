@@ -1,0 +1,4 @@
+{
+	"label": "AWS Lambda",
+	"description": "Provides actions for AWS Lambda Service operations."
+}
